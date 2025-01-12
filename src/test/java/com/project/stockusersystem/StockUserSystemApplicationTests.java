@@ -1,4 +1,4 @@
-package com.example.stockusersystem;
+package com.project.stockusersystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
